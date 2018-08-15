@@ -2529,6 +2529,7 @@ var white_domains = {"am":{
 "cnal":1,
 "cnautonews":1,
 "cnbeta":1,
+"cnbetacdn":1,
 "cnblogs":1,
 "cnbzxw":1,
 "cnchainnet":1,
